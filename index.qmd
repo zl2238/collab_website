@@ -1,7 +1,5 @@
 ---
-title: "collab_website"
+title: "Our Very Cool Website"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+We are working together on this website!
