@@ -13,11 +13,10 @@ website:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: darkly
     css: styles.css
     toc: true
+    page-layout: full
 
 
 
