@@ -3,3 +3,5 @@ title: "Our Very Cool Website"
 ---
 
 We are working together on this website!
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQrx6QIaNGJm7HXMclKrjwil12njUJuNe47ahhP7cMDP6-qHXW1u9nt3y-&s=10)
